@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 97cd0b0b05f18714384759b31bb5fcf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1791300452537026960
+    second: EnemyMushroom_0
+  - first:
+      213: -3420564820618473929
+    second: EnemyMushroom_1
+  - first:
+      213: -4929572831951368403
+    second: EnemyMushroom_2
+  - first:
+      213: -1523408060897569827
+    second: EnemyMushroom_3
+  - first:
+      213: -7752929618126764394
+    second: EnemyMushroom_4
+  - first:
+      213: -7526853190800186820
+    second: EnemyMushroom_5
+  - first:
+      213: 3467361949700040971
+    second: EnemyMushroom_6
+  - first:
+      213: -5934722701722295349
+    second: EnemyMushroom_7
+  - first:
+      213: -4096862701973935747
+    second: EnemyMushroom_8
+  - first:
+      213: 2379682311405132095
+    second: EnemyMushroom_9
+  - first:
+      213: 3303915870242059682
+    second: EnemyMushroom_10
+  - first:
+      213: -162198931829085697
+    second: EnemyMushroom_11
+  - first:
+      213: 5810137657374767408
+    second: EnemyMushroom_12
+  - first:
+      213: -6958784950639564958
+    second: EnemyMushroom_13
+  - first:
+      213: -5013441573557157435
+    second: EnemyMushroom_14
+  - first:
+      213: 929791691826778700
+    second: EnemyMushroom_15
+  - first:
+      213: -9184946506249112843
+    second: EnemyMushroom_16
+  - first:
+      213: -2298229233320239602
+    second: EnemyMushroom_17
+  - first:
+      213: 2149235581903228528
+    second: EnemyMushroom_18
+  - first:
+      213: 6023149638089060092
+    second: EnemyMushroom_19
+  - first:
+      213: 4865233286407558933
+    second: EnemyMushroom_20
+  - first:
+      213: 847437917896054703
+    second: EnemyMushroom_21
+  - first:
+      213: 8079459832273360202
+    second: EnemyMushroom_22
+  - first:
+      213: -6665733752917495817
+    second: EnemyMushroom_23
+  - first:
+      213: 8375264470945230098
+    second: EnemyMushroom_24
+  - first:
+      213: -8226294380684019285
+    second: EnemyMushroom_25
+  - first:
+      213: 4651100585823769453
+    second: EnemyMushroom_26
+  - first:
+      213: 7476321815240044659
+    second: EnemyMushroom_27
+  - first:
+      213: -799472676278343681
+    second: EnemyMushroom_28
+  - first:
+      213: 970889265320021952
+    second: EnemyMushroom_29
+  - first:
+      213: 817403495934628091
+    second: EnemyMushroom_30
+  - first:
+      213: 142972788293553391
+    second: EnemyMushroom_31
+  - first:
+      213: -6714601422618130904
+    second: EnemyMushroom_32
+  - first:
+      213: 6978202621824918917
+    second: EnemyMushroom_33
+  - first:
+      213: 1610147519134860925
+    second: EnemyMushroom_34
+  - first:
+      213: -8855221058556088405
+    second: EnemyMushroom_35
+  - first:
+      213: 8313724815064225407
+    second: EnemyMushroom_36
+  - first:
+      213: -6667105548583778501
+    second: EnemyMushroom_37
+  - first:
+      213: 4759830055376305356
+    second: EnemyMushroom_38
+  - first:
+      213: 8355864160300685122
+    second: EnemyMushroom_39
+  - first:
+      213: -2090006661574260253
+    second: EnemyMushroom_40
+  - first:
+      213: -195967227707474177
+    second: EnemyMushroom_41
+  - first:
+      213: 6088367788474934247
+    second: EnemyMushroom_42
+  - first:
+      213: -2960918307859301274
+    second: EnemyMushroom_43
+  - first:
+      213: 4040063839318272684
+    second: EnemyMushroom_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyMushroom_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b888aab50427e0800000000000000
+      internalID: -1791300452537026960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e86d72b66b780d0800000000000000
+      internalID: -3420564820618473929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4f1990a3a69bb0800000000000000
+      internalID: -4929572831951368403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3db32a074cbdae0800000000000000
+      internalID: -1523408060897569827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3955914474560120800000000000000
+      internalID: 2379682311405132095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5bd85aafdd9dd20800000000000000
+      internalID: 3303915870242059682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9216d4ee0cfbdf0800000000000000
+      internalID: -162198931829085697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03971fb7a61c1a050800000000000000
+      internalID: 5810137657374767408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676bc4e4fd6d6f90800000000000000
+      internalID: -6958784950639564958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 85
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c143f1837dac6ab0800000000000000
+      internalID: -5013441573557157435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec8f5ef5e93dd10800000000000000
+      internalID: 2149235581903228528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe225f0fa6869350800000000000000
+      internalID: 6023149638089060092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f2e7641b31c760800000000000000
+      internalID: 7476321815240044659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff76cc236d3b7e4f0800000000000000
+      internalID: -799472676278343681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccbee977305e0240800000000000000
+      internalID: 4759830055376305356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d32abe2ef5f370800000000000000
+      internalID: 8355864160300685122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e98aaeb30ecef2e0800000000000000
+      internalID: -2090006661574260253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb0ec38d8c74df0800000000000000
+      internalID: -195967227707474177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3aafdfe3a3e7450800000000000000
+      internalID: 6088367788474934247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c78139c74b8e6d0800000000000000
+      internalID: -2960918307859301274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMushroom_44
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa677c18a0311830800000000000000
+      internalID: 4040063839318272684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
